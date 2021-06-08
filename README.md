@@ -25,11 +25,22 @@ Step6: train the model and use the matplot library to plot the accuracy and loss
 <br>
 NOTE: the same procedure goes for VGG16 too.
 </br>
+<br>
 The third model is MxNet, it is different from others because it is an autoencoder.
+</br>
+<br>
 Step1: first import the libraries including mxnet. if you dont have mxnet then use "!pip install mxnet" .
+</br>
+<br>
 Step2: here the dataset we are using is imported from the kaggle. https://www.kaggle.com/bladerunnerrachel/ucsd-anomaly-dataset
+</br>
+<br>
 Step3: after importing follow the procedure in shells.
+</br>
+<br>
 Step4: train the model and save the model.
+</br>
+<br>
 Step5: use matplot library to plot the anomaly in frames. it will show frame-wise where the anomaly is present using a red dot on it.
-
+</br>
 All the steps mentioned above are in brief so kindly use your brain if you have any doubts!!
