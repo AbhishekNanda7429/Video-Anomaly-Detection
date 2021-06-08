@@ -7,14 +7,24 @@ The first model AlexNet is trained on UCSD dataset which is downloaded from the 
 <br>
 Step1: import all the required libraries.
 </br>
+<br>
 Step2: set the train folder dataset and test folder dataset.
+</br>
+<br>
 Step3: proceed acoording to the ipynb shells.
+</br>
+<br>
 Step4: set the parameters for the model.
+</br>
+<br>
 Step5: compile the model and save it using callback functions.
+</br>
+<br>
 Step6: train the model and use the matplot library to plot the accuracy and loss.
-
+</br>
+<br>
 NOTE: the same procedure goes for VGG16 too.
-
+</br>
 The third model is MxNet, it is different from others because it is an autoencoder.
 Step1: first import the libraries including mxnet. if you dont have mxnet then use "!pip install mxnet" .
 Step2: here the dataset we are using is imported from the kaggle. https://www.kaggle.com/bladerunnerrachel/ucsd-anomaly-dataset
