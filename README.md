@@ -4,7 +4,9 @@ Detecting anomaly using AlexNet,VGG16,MxNet
 UCSD DATASET: http://www.svcl.ucsd.edu/projects/anomaly/dataset.html
 
 The first model AlexNet is trained on UCSD dataset which is downloaded from the above link.
+<br>
 Step1: import all the required libraries.
+</br>
 Step2: set the train folder dataset and test folder dataset.
 Step3: proceed acoording to the ipynb shells.
 Step4: set the parameters for the model.
