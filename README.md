@@ -43,4 +43,6 @@ Step4: train the model and save the model.
 <br>
 Step5: use matplot library to plot the anomaly in frames. it will show frame-wise where the anomaly is present using a red dot on it.
 </br>
+<br>
 All the steps mentioned above are in brief so kindly use your brain if you have any doubts!!
+</br>
