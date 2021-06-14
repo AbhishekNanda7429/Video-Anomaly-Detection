@@ -46,3 +46,6 @@ Step5: use matplot library to plot the anomaly in frames. it will show frame-wis
 <br>
 All the steps mentioned above are in brief so kindly use your brain if you have any doubts!!
 </br>
+<br>
+LINK to the article: https://www.linkedin.com/pulse/video-anomaly-detection-using-alexnetmxnetvgg16-abhishek-nanda
+</br>
